@@ -5,6 +5,6 @@
     <title>Title</title>
 </head>
 <body>
-    test page
+<h1>${result}</h1>
 </body>
 </html>
