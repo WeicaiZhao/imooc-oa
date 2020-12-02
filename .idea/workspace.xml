@@ -7,7 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c23825ca-4f5b-4beb-a829-3013f96daa63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mappers/test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/imooc/oa/datasource/DruidDataSourceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/imooc/oa/utils/MybatisUtilsTestor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +57,39 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MybatisUtilsTestor.testcase2">
+    <configuration name="MybatisUtilsTestor.testcase1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="imooc-oa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.oa.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.oa.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.oa.utils.MybatisUtilsTestor" />
+      <option name="METHOD_NAME" value="testcase1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisUtilsTestor.testcase2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="imooc-oa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.imooc.oa.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.imooc.oa.utils" />
+      <option name="MAIN_CLASS_NAME" value="com.imooc.oa.utils.MybatisUtilsTestor" />
+      <option name="METHOD_NAME" value="testcase2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.40" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.40" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -129,6 +162,17 @@
         </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 9.0.40" />
+      <item itemvalue="JUnit.MybatisUtilsTestor.testcase1" />
+      <item itemvalue="JUnit.MybatisUtilsTestor.testcase2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MybatisUtilsTestor.testcase2" />
+        <item itemvalue="JUnit.MybatisUtilsTestor.testcase1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -162,7 +206,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606943701516</updated>
-      <workItem from="1606943705792" duration="2423000" />
+      <workItem from="1606943705792" duration="3238000" />
     </task>
     <servers />
   </component>
@@ -182,22 +226,22 @@
       <screen x="0" y="23" width="1440" height="807" />
     </state>
     <state x="534" y="340" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.23.1440.807/1440.23.2560.1417@0.23.1440.807" timestamp="1606943939575" />
-    <state width="897" height="196" key="GridCell.Tab.0.bottom" timestamp="1606945447412">
+    <state width="1312" height="196" key="GridCell.Tab.0.bottom" timestamp="1606946886286">
       <screen x="0" y="23" width="1440" height="807" />
     </state>
-    <state width="897" height="196" key="GridCell.Tab.0.bottom/0.23.1440.807/1440.23.2560.1417@0.23.1440.807" timestamp="1606945447412" />
-    <state width="897" height="196" key="GridCell.Tab.0.center" timestamp="1606945447411">
+    <state width="1312" height="196" key="GridCell.Tab.0.bottom/0.23.1440.807/1440.23.2560.1417@0.23.1440.807" timestamp="1606946886286" />
+    <state width="1312" height="196" key="GridCell.Tab.0.center" timestamp="1606946886285">
       <screen x="0" y="23" width="1440" height="807" />
     </state>
-    <state width="897" height="196" key="GridCell.Tab.0.center/0.23.1440.807/1440.23.2560.1417@0.23.1440.807" timestamp="1606945447411" />
-    <state width="897" height="196" key="GridCell.Tab.0.left" timestamp="1606945447411">
+    <state width="1312" height="196" key="GridCell.Tab.0.center/0.23.1440.807/1440.23.2560.1417@0.23.1440.807" timestamp="1606946886285" />
+    <state width="1312" height="196" key="GridCell.Tab.0.left" timestamp="1606946886284">
       <screen x="0" y="23" width="1440" height="807" />
     </state>
-    <state width="897" height="196" key="GridCell.Tab.0.left/0.23.1440.807/1440.23.2560.1417@0.23.1440.807" timestamp="1606945447411" />
-    <state width="897" height="196" key="GridCell.Tab.0.right" timestamp="1606945447412">
+    <state width="1312" height="196" key="GridCell.Tab.0.left/0.23.1440.807/1440.23.2560.1417@0.23.1440.807" timestamp="1606946886284" />
+    <state width="1312" height="196" key="GridCell.Tab.0.right" timestamp="1606946886285">
       <screen x="0" y="23" width="1440" height="807" />
     </state>
-    <state width="897" height="196" key="GridCell.Tab.0.right/0.23.1440.807/1440.23.2560.1417@0.23.1440.807" timestamp="1606945447412" />
+    <state width="1312" height="196" key="GridCell.Tab.0.right/0.23.1440.807/1440.23.2560.1417@0.23.1440.807" timestamp="1606946886285" />
     <state width="897" height="196" key="GridCell.Tab.1.bottom" timestamp="1606945447413">
       <screen x="0" y="23" width="1440" height="807" />
     </state>
