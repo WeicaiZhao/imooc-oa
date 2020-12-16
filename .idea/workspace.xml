@@ -8,7 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c23825ca-4f5b-4beb-a829-3013f96daa63" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/imooc/oa/utils/MybatisUtilsTestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/imooc/oa/utils/MybatisUtilsTestor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/ftl" />
     </key>
@@ -210,7 +213,7 @@
       <updated>1606943701516</updated>
       <workItem from="1606943705792" duration="7594000" />
       <workItem from="1607975731119" duration="829000" />
-      <workItem from="1607986096030" duration="241000" />
+      <workItem from="1607986096030" duration="949000" />
     </task>
     <servers />
   </component>
